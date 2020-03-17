@@ -23,3 +23,18 @@ Enter the no: rows
 Enter the no: columns  
 6  
 ```
+## Game Window
+
+![Test Image 1](images/1.png)  
+
+You can enter the patern that you wish to start with.  
+
+## Playing window 
+
+![Test Image 1](images/11.png)   
+![Test Image 1](images/12.png) 
+
+The game starts with changing patterns.
+The pattern used above is an oscillator which oscillates between two points.
+
+
