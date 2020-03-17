@@ -32,9 +32,9 @@ You can enter the patern that you wish to start with.
 ## Playing window 
 
 ![Test Image 1](images/11.png)   
-![Test Image 1](images/12.png) 
+![Test Image 1](images/13.png) 
 
 The game starts with changing patterns.
 The pattern used above is an oscillator which oscillates between two points.
 
-
+*If you prefer not running using python3 command and want to run by python command, please change the line in gol.py where it calls goi-play.py*
