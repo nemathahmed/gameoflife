@@ -34,6 +34,11 @@ You can enter the patern that you wish to start with.
 ![Test Image 1](images/11.png)   
 ![Test Image 1](images/13.png) 
 
+# Video Demos | Youtube
+## [Demo video 1](https://youtu.be/qCt8cP_wqqI)  
+## [Demo video 2](https://youtu.be/BjUMR6B52Ro)  
+## [Demo video 3](https://youtu.be/N3fOD4dBgNU)  
+
 The game starts with changing patterns.
 The pattern used above is an oscillator which oscillates between two points.
 
